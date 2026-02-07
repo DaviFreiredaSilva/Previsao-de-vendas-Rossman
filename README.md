@@ -82,7 +82,7 @@ Os modelos são avaliados com métricas de erro para regressão, permitindo uma 
 
 ## 🔗 Links
 
-* Notebook no Kaggle: *[(adicionar link)](https://www.kaggle.com/code/davifreire/modelo-de-redes-neurais-an-lise-rossmann)*
+* Notebook no Kaggle: *[Rossmann Store Sales](https://www.kaggle.com/code/davifreire/modelo-de-redes-neurais-an-lise-rossmann)*
 * Dataset: Rossmann Store Sales (Kaggle)
 
 ---
