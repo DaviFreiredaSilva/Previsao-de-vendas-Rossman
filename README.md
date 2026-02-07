@@ -82,22 +82,22 @@ Os modelos são avaliados com métricas de erro para regressão, permitindo uma 
 
 ## 🔗 Links
 
-* Notebook no Kaggle: *(adicionar link)*
+* Notebook no Kaggle: *[(adicionar link)](https://www.kaggle.com/code/davifreire/modelo-de-redes-neurais-an-lise-rossmann)*
 * Dataset: Rossmann Store Sales (Kaggle)
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório
 2. Instale as dependências necessárias
-3. Execute o notebook `modelo-de-redes-neurais-analise-rossmann.ipynb`
+3. Execute o notebook `modelo-de-redes-neurais-an-lise-rossmann.ipynb`
 
 O projeto foi originalmente desenvolvido e executado no **Kaggle Notebook**.
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 ├── modelo-de-redes-neurais-analise-rossmann.ipynb
@@ -106,7 +106,7 @@ O projeto foi originalmente desenvolvido e executado no **Kaggle Notebook**.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Demonstrar competência prática em **Machine Learning e Deep Learning**, aplicando modelos a um problema real de previsão de vendas, com foco em:
 
@@ -114,13 +114,8 @@ Demonstrar competência prática em **Machine Learning e Deep Learning**, aplica
 * Comparação de abordagens
 * Qualidade de código e organização
 
-Este projeto foi desenvolvido como parte do meu **portfólio profissional**.
-
 ---
 
-## ✍️ Autor
+## Autor
 
 **Davi Freire**
-
-Se você tiver sugestões ou quiser discutir melhorias no modelo, fique à vontade para abrir uma issue ou entrar em contato.
-
